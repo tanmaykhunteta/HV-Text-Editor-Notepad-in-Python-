@@ -64,7 +64,7 @@ Now its time to execute **hv_text.py**
 >python hv_text.py
 ```
 it will show following Output
-![outputwindow](https://raw.githubusercontent.com/chavarera/MY-NOTEPAD/Readme/demo.png)
+![outputwindow](https://user-images.githubusercontent.com/69249254/102637847-a8486900-417c-11eb-9cc0-4c27dfb7f4ce.png)
 
 ## Download
 :paperclip: [Download Here](https://github.com/tanmaykhunteta/HV-Text-Editor-Notepad-in-Python-/raw/main/Hv%20text%20editor-0.1-amd64.msi)
